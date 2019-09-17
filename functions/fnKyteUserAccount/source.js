@@ -1,4 +1,4 @@
-const moment = require('moment')
+//const moment = require('moment')
 exports = function(arg){
   /*
     Accessing application's values:
@@ -14,6 +14,7 @@ exports = function(arg){
     Try running in the console below.
     
   */
-  console.log('usando o moment 2', moment());
+  //console.log('usando o moment 2', moment());
+  console.log(`aqui`);
   return {arg: arg};
 };

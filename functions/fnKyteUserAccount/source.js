@@ -14,6 +14,6 @@ exports = function(arg){
     Try running in the console below.
     
   */
-  console.log('usando o moment', moment());
+  console.log('usando o moment 2', moment());
   return {arg: arg};
 };
